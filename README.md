@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @norwin64
-- 👀 I’m interested in programming little applications in python
-- 🌱 I’m currently learning to handle artificial intelligence
-- 💞️ I’m looking to collaborate on a company with a futurised businessplan and the purpose to change the world.
-- 📫 You can reach me at Norwin@gmx.de
+👋
+I'm pursuing a bachelor's degree in Artificial Intelligence at the Johannes Keppler University in Linz, Austria and i am currently in my 3rd year of study. 
+
 
 <!---
 norwin64/norwin64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
